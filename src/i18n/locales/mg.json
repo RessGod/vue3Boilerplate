@@ -1,0 +1,161 @@
+{
+  "nav": {
+    "dashboard": "Sehatry",
+    "home": "Fandraisana",
+    "login": "Fidirana",
+    "welcome": "Manao ahoana",
+    "logout": "Fivoahana"
+  },
+  "dashboard": {
+    "title": "Sehatry",
+    "welcome": "Tongasoa eto amin'ny sehatry",
+    "stats": {
+      "totalUsers": "Mpampiasa rehetra",
+      "revenue": "Vola miditra",
+      "orders": "Baiko",
+      "conversionRate": "Tahan'ny fiovana",
+      "lastMonth": "hatramin'ny volana lasa"
+    },
+    "recentActivities": {
+      "title": "Hetsika farany",
+      "newUser": "Mpampiasa vaovao nisoratra anarana",
+      "orderProcessed": "Baiko #{id} voakarakara",
+      "reportGenerated": "Tatitra volana noforonina",
+      "timeAgo": {
+        "minutes": "{count} minitra lasa izay",
+        "hours": "{count} ora lasa izay"
+      }
+    },
+    "tasks": {
+      "title": "Asa atao",
+      "reviewReport": "Hijery ny tatitra volana",
+      "updateDocs": "Hanavao ny antontan-taratasy",
+      "planMeeting": "Handamina ny fivoriana ekipa",
+      "optimizePerf": "Hanatsara ny fahombiazana",
+      "dueToday": "Fetra: Anio",
+      "dueTomorrow": "Fetra: Rahampitso",
+      "dueThisWeek": "Fetra: Amin'ity herinandro ity",
+      "dueFriday": "Fetra: Zoma",
+      "priority": {
+        "high": "Avo",
+        "medium": "Antonony",
+        "low": "Ambany"
+      }
+    },
+    "performance": {
+      "title": "Fijerena ny fahombiazana",
+      "completionRate": "Tahan'ny fahavitana",
+      "activeProjects": "Tetikasa mavitrika",
+      "activeUsers": "Mpampiasa mavitrika"
+    }
+  },
+  "home": {
+    "welcome": "Tongasoa, {name}",
+    "subtitle": "Fantaro ny toerana fiasanao manokana",
+    "cards": {
+      "dashboard": {
+        "title": "Sehatry",
+        "description": "Jereo ny antontan-isa sy ny hetsika",
+        "button": "Midira amin'ny Sehatry"
+      },
+      "management": {
+        "title": "Fitantanana",
+        "description": "Tantano ny tetikasa sy ny asa",
+        "button": "Tantano ny tetikasa"
+      },
+      "settings": {
+        "title": "Fandrindrana",
+        "description": "Amboary ny kaontinao",
+        "button": "Fandrindrana"
+      }
+    }
+  },
+  "login": {
+    "title": "Fidirana",
+    "subtitle": "Midira amin'ny kaontinao",
+    "email": "Mailaka",
+    "password": "Teny miafina",
+    "remember": "Tadidio aho",
+    "forgotPassword": "Hadino ny teny miafina?",
+    "loginButton": "Miditra",
+    "loading": "Miditra...",
+    "noAccount": "Mbola tsy manana kaonty?",
+    "createAccount": "Mamorona kaonty",
+    "emailPlaceholder": "ny@mailakao.com",
+    "passwordPlaceholder": "••••••••",
+    "testInfo": {
+      "title": "Fampahalalana fitsapana",
+      "description": "Ampiasao ny mailaka rehetra avy amin'ny mpampiasa JSONPlaceholder miaraka amin'ny teny miafina \"password\"",
+      "example": "Ohatra: Sincere@april.biz / password"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "Momba",
+      "description": "Rindranasa fitantanana maoderina namboarina tamin'ny Vue.js sy Tailwind CSS."
+    },
+    "quickLinks": {
+      "title": "Rohy haingana"
+    },
+    "contact": {
+      "title": "Fifandraisana",
+      "email": "Mailaka: {email}",
+      "phone": "Telefaona: {phone}",
+      "address": "Adiresy: {address}"
+    },
+    "copyright": "© {year} Dashboard App. Zo rehetra voatahiry.",
+    "privacy": "Politikan'ny tsiambaratelo",
+    "terms": "Fepetra fampiasana"
+  },
+  "theme": {
+    "light": "Loko mazava",
+    "dark": "Loko maizina"
+  },
+  "language": {
+    "french": "Frantsay",
+    "malagasy": "Malagasy"
+  },
+  "brand": {
+    "name": "DashApp"
+  },
+  "landing": {
+    "badge": "✨ Vaovao - Dikan-kevitra 2.0 misy",
+    "hero": {
+      "title": "Tantano ny tetikasanao",
+      "titleHighlight": "amin'ny fahamorana",
+      "subtitle": "Sehatra iray manontolo hanatsarana ny fahombiazanao sy hiara-hiasa tsara amin'ny ekipanao."
+    },
+    "cta": {
+      "primary": "Manomboka maimaim-poana",
+      "secondary": "Jereo ny demo"
+    },
+    "socialProof": "Ampiasain'ny ekipa 10,000+ manerana izao tontolo izao",
+    "stats": {
+      "users": "Mpampiasa",
+      "uptime": "Fahafaha-mandeha",
+      "countries": "Firenena",
+      "rating": "Naoty antonony"
+    },
+    "features": {
+      "title": "Izay rehetra ilainao",
+      "subtitle": "Fitaovana mahery hanova ny fomba fiasanao",
+      "analytics": {
+        "title": "Analytics Avo lenta",
+        "description": "Jereo ny angon-drakitrao amin'ny sary mifandray sy ny tatitra amin'ny antsipiriany."
+      },
+      "collaboration": {
+        "title": "Fiaraha-miasa",
+        "description": "Miara-miasa amin'ny ekipa miaraka amin'ny fitaovana fiaraha-miasa amin'ny fotoana tena izy."
+      },
+      "security": {
+        "title": "Fiarovana",
+        "description": "Voaaro ny angon-drakitrao amin'ny fanaovana miafina amin'ny haavon'ny orinasa."
+      }
+    },
+    "finalCta": {
+      "title": "Vonona hanova ny fahombiazanao ve ianao?",
+      "subtitle": "Midira amin'ny ekipa an'arivony izay matoky ny sehatra.",
+      "button": "Manomboka izao"
+    }
+  }
+}

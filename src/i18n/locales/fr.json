@@ -1,0 +1,161 @@
+{
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "home": "Accueil",
+    "login": "Connexion",
+    "welcome": "Bonjour",
+    "logout": "Déconnexion"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bienvenue sur votre tableau de bord",
+    "stats": {
+      "totalUsers": "Utilisateurs totaux",
+      "revenue": "Revenus",
+      "orders": "Commandes",
+      "conversionRate": "Taux de conversion",
+      "lastMonth": "depuis le mois dernier"
+    },
+    "recentActivities": {
+      "title": "Activités récentes",
+      "newUser": "Nouveau utilisateur inscrit",
+      "orderProcessed": "Commande #{id} traitée",
+      "reportGenerated": "Rapport mensuel généré",
+      "timeAgo": {
+        "minutes": "Il y a {count} minute | Il y a {count} minutes",
+        "hours": "Il y a {count} heure | Il y a {count} heures"
+      }
+    },
+    "tasks": {
+      "title": "Tâches à faire",
+      "reviewReport": "Réviser le rapport mensuel",
+      "updateDocs": "Mettre à jour la documentation",
+      "planMeeting": "Planifier la réunion équipe",
+      "optimizePerf": "Optimiser les performances",
+      "dueToday": "Échéance: Aujourd'hui",
+      "dueTomorrow": "Échéance: Demain",
+      "dueThisWeek": "Échéance: Cette semaine",
+      "dueFriday": "Échéance: Vendredi",
+      "priority": {
+        "high": "Haute",
+        "medium": "Moyenne",
+        "low": "Basse"
+      }
+    },
+    "performance": {
+      "title": "Aperçu des performances",
+      "completionRate": "Taux de completion",
+      "activeProjects": "Projets actifs",
+      "activeUsers": "Utilisateurs actifs"
+    }
+  },
+  "home": {
+    "welcome": "Bienvenue, {name}",
+    "subtitle": "Découvrez votre espace de travail personnalisé",
+    "cards": {
+      "dashboard": {
+        "title": "Tableau de bord",
+        "description": "Consultez vos statistiques et activités",
+        "button": "Accéder au Dashboard"
+      },
+      "management": {
+        "title": "Gestion",
+        "description": "Gérez vos projets et tâches",
+        "button": "Gérer les projets"
+      },
+      "settings": {
+        "title": "Paramètres",
+        "description": "Configurez votre compte",
+        "button": "Paramètres"
+      }
+    }
+  },
+  "login": {
+    "title": "Connexion",
+    "subtitle": "Connectez-vous à votre compte",
+    "email": "Email",
+    "password": "Mot de passe",
+    "remember": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "loginButton": "Se connecter",
+    "loading": "Connexion...",
+    "noAccount": "Pas encore de compte ?",
+    "createAccount": "Créer un compte",
+    "emailPlaceholder": "votre@email.com",
+    "passwordPlaceholder": "••••••••",
+    "testInfo": {
+      "title": "Informations de test",
+      "description": "Utilisez n'importe quel email des utilisateurs JSONPlaceholder avec le mot de passe \"password\"",
+      "example": "Exemple: Sincere@april.biz / password"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "À propos",
+      "description": "Application de gestion moderne construite avec Vue.js et Tailwind CSS."
+    },
+    "quickLinks": {
+      "title": "Liens rapides"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email: {email}",
+      "phone": "Téléphone: {phone}",
+      "address": "Adresse: {address}"
+    },
+    "copyright": "© {year} Dashboard App. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "theme": {
+    "light": "Thème clair",
+    "dark": "Thème sombre"
+  },
+  "language": {
+    "french": "Français",
+    "malagasy": "Malagasy"
+  },
+  "brand": {
+    "name": "DashApp"
+  },
+  "landing": {
+    "badge": "✨ Nouveau - Version 2.0 disponible",
+    "hero": {
+      "title": "Gérez vos projets",
+      "titleHighlight": "avec simplicité",
+      "subtitle": "La plateforme tout-en-un pour optimiser votre productivité et collaborer efficacement avec votre équipe."
+    },
+    "cta": {
+      "primary": "Commencer gratuitement",
+      "secondary": "Voir la démo"
+    },
+    "socialProof": "Utilisé par plus de 10,000+ équipes dans le monde",
+    "stats": {
+      "users": "Utilisateurs",
+      "uptime": "Disponibilité",
+      "countries": "Pays",
+      "rating": "Note moyenne"
+    },
+    "features": {
+      "title": "Tout ce dont vous avez besoin",
+      "subtitle": "Des outils puissants pour transformer votre façon de travailler",
+      "analytics": {
+        "title": "Analytics Avancés",
+        "description": "Visualisez vos données avec des graphiques interactifs et des rapports détaillés."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Travaillez en équipe avec des outils de collaboration en temps réel."
+      },
+      "security": {
+        "title": "Sécurité",
+        "description": "Vos données sont protégées avec un chiffrement de niveau entreprise."
+      }
+    },
+    "finalCta": {
+      "title": "Prêt à transformer votre productivité ?",
+      "subtitle": "Rejoignez des milliers d'équipes qui font déjà confiance à notre plateforme.",
+      "button": "Commencer maintenant"
+    }
+  }
+}

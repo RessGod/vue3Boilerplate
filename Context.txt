@@ -1,0 +1,6 @@
+Notre application principal à des petits problèmes de temps en temps 
+et on a des personnes qui sont responsables de remonter c'est petites 
+bug collecter auprès de nos utilisateurs" et je voudrais centralisé 
+le traitement de ces opérations avec des stats des opérations traiter 
+la possibilité de les archiver et autre, grouper les types d'erreurs 
+fréquent et leurs solutions.
